@@ -72,11 +72,6 @@ I focus on building clean, efficient, and business-oriented analytics solutions 
 
 ---
 
-## 📈 GitHub Stats
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umar-data-analyst&show_icons=true&theme=default)
-
----
-
 ## 🤝 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/umar-data-analyst/)
 - Email: (umarjazzs@gmail.com)
