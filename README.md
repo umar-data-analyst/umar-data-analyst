@@ -75,6 +75,7 @@ I focus on building clean, efficient, and business-oriented analytics solutions 
 ## 🤝 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/umar-data-analyst/)
 - Email: (umarjazzs@gmail.com)
+- Fiverr: https://www.fiverr.com/s/2KEvo5q
 
 ---
 
