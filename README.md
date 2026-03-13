@@ -62,7 +62,7 @@ I focus on building clean, efficient, and business-oriented analytics solutions 
 
 ---
 
-### 📌 MavenMovies SQL Analysis Project
+### 📌 Pizza-Store SQL Analysis Project
 **Tools:** SQL  
 - Queried relational database to extract business insights  
 - Used JOINs, GROUP BY, HAVING, and subqueries  
@@ -78,7 +78,6 @@ I'm Open to internships, freelance work, and collaborative projects
 
 - LinkedIn: (https://www.linkedin.com/in/umar-data-analyst/)
 - Email: (umarjazzs@gmail.com)
-- Fiverr: https://www.fiverr.com/s/2KEvo5q
 
 ---
 
